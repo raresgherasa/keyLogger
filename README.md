@@ -1,12 +1,10 @@
-# 🕵️‍♂️ Keylogger (But Make It Classy)
-
-Welcome to a highly sensitive, auto-repeating C++ Keylogger built with SFML. It logs keystrokes with 5ms precision, capturing everything typed on the keyboard. 
+## Keylogger
 
 > [!CAUTION]
 > **Ethical & Legal Disclaimer**  
 > This project is designed strictly for educational purposes, personal monitoring, or catching yourself sleep-typing embarrassing emails to your boss. **Do not use this to steal your roommate's World of Warcraft password.** You are solely responsible for any misuse of this software. Stay lawful, stay cool.
 
-## ✨ Features
+## Features
 - **Ultra-Sensitive Logging**: 200Hz polling rate (5ms loops) so you never miss a beat.
 - **Auto-Repeat Logic**: Fully handles holding down keys (like `W` for gaming or `A` for screaming internally).
 - **Stealth Mode (`--stealth`)**: Run it as a background daemon on Linux without leaving a trace in your terminal.
